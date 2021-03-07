@@ -26,7 +26,7 @@ def encrypt():
                 else:
                     pass
     except:
-        print('Error encrypting')
+        pass
 
 def main():
     try:
