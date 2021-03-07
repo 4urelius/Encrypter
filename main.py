@@ -33,7 +33,6 @@ def main():
         encrypt()
     except:
         print(f'Usage: {sys.argv[0]}')
-    
-
+        
 if __name__ == '__main__':
     main()
